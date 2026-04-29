@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](http://hhnigatu.github.io/files/Hellinas_CV.pdf)
+[PDF](http://antenehyeh.github.io/files/Anteneh_Yehalem_CV.pdf)
 
 Education
 ======
-* Ph.D in Computer Science, UC Berkeley.
 * M.S. in Computer Science, UC Berkeley, 2023.
 * B.S. in Electrical and Computer Engineering, AAiT, 2020.
 
