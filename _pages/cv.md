@@ -9,58 +9,98 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](http://antenehyeh.github.io/files/Anteneh_Yehalem_CV.pdf)
+[PDF](https://github.com/ethio-artifical/antenehyeh.github.io/blob/main/files/Anteneh_Yehalem_CV.pdf)
+
+Contact
+======
+* Email: `anteneh.yehalem@bdu.edu.et` | `artificialintel02@gmail.com`
+* Google Scholar: see my Google Scholar profile.
+
+Research Interests and Experience
+======
+* Multi-modal data processing
+* Computer Vision
+* Data Science
+* Natural Language Processing
+* Low-cost AI
+* Modular deep learning
+* Multi-Agent AI systems development
+* Fine-tuning Large Language Models
 
 Education
 ======
-* M.S. in Computer Science, UC Berkeley, 2023.
-* B.S. in Electrical and Computer Engineering, AAiT, 2020.
+* **M.Sc. in Artificial Intelligence and Data Science**, Bahir Dar Institute of Technology, Ethiopia (2022-2024)
+  * Focus: AI, Computer Vision, Data Science, and Autonomous Systems
+  * Thesis: *End-to-End Continuous Ethiopia Sign Language Recognition*
+  * Supervisor: Million Meshesha
+  * Published at ICT4DA 2025 (full conference paper)
+* **B.Sc. in Computer Science**, Debre Tabor University, Ethiopia (2017-2021)
+  * Focus: Coding, Computer Science Theory, and Software Development
+  * Thesis: *Web-based Patient Information Management System for Debre Tabor Hospital*
 
-Work experience
+Work Experience
 ======
-* Summer 2024: Visiting Student Researcher
-  * Mohammed Bin Zayed University of AI (MBZUAI)
-  * Working on Machine Translation in Healthcare.
-  * Supervisor: Prof. [Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/)
+* **Lecturer and Researcher**, Department of Data Science, Bahir Dar University, Ethiopia (Jan 2024-Present)
+  * Coordinating and working with a research team
+  * Conducting research in Computer Vision and NLP
+  * Teaching Deep Learning, Machine Learning, and Data Visualization
+* **Data Science and Analytics Bootcamp Trainer**, Baacumen (Remote), Seattle, Washington, USA (Jul 2025-Present)
+  * Teaching Deep Learning, Machine Learning, and Python
+* **Machine Learning Engineer**, Afriwork Company (Remote) (Nov 2024-Jan 2025)
+  * Built several Deep Learning and ML-driven projects focused on real-world applications
 
-  
+Research Publications
+======
+* Tegegne, A. Y., Meshesha, M., Belay, B. H., Ejigu, Y. A., Tadesse, S. A., & Chekol, A. K. *End-To-End Continuous Ethiopian Sign Language Recognition.* 7th International Conference on Information and Communication Technology for Development for Africa (ICT4DA-2025), IEEE.
+* Ejigu, Y. A., Asfaw, T. T., Tadesse, S. A., Tegegne, A. Y., & Chekol, A. K. *A Noise-Robust End-to-End Framework for Amharic Speech Recognition.* 7th ICT4DA-2025, IEEE.
+* Chekole, A. K., Mengestie, T. N., Kebie, B. T., Ejigu, Y. A., Moges, K. K., & Tegegne, A. Y. *Utilizing Morpheme-Based Translation Units to Enhance Bidirectional Amharic-Khimtagne Machine Translation with Deep Learning.* 7th ICT4DA-2025, IEEE.
+* Ejigu, Y. A., Tadesse, S. A., Asfaw, T. T., Tegegne, A. Y., Alamnie, A. D., & Chekol, A. K. *Epileptic Seizure Detection Using Deep CNNs with Spectral and Complexity Features from EEG Signals.* Accepted for conference proceedings.
 
-Publications
+Ongoing Publications and Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Development of a Model for the Prediction of Road Crash Severity Using Artificial Neural Networks: A Case Study of Bahir Dar City (ongoing publication)
+* Image-Based Deep Learning Model for Early Detection and Classification of Coffee Leaf Disease in Amhara Region (ongoing publication)
+* NeuroScanAI: Deep Learning for Automated Brain Tumor Classification (ongoing publication)
+* Facial Emotion-Driven Music Recommendation (ongoing publication)
+* Breast Cancer Prediction Using Machine Learning Approach (completed project)
+* End-to-End Continuous Ethiopia Sign Language Recognition (completed project)
+* Developing Amharic Sign Language Recognition Model for Amharic Characters Using Deep Learning Approach (completed project)
+* Named Entity Recognition for Amharic Characters (completed project)
+* Part of Speech for Amharic Character using Machine Learning Approach (completed project)
+* Online Hospital Management System (PHP) (completed project)
+
+Skills
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Languages: Fluent in English and Amharic
+* Deep Learning Frameworks: PyTorch, Keras
+* Programming: Python, C++
+* Software Development: GitHub, VS Code
+* Operating Systems: Linux, Windows
+
+Scholarships
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* M.Sc. Scholarship, Bahir Dar University, Ethiopia (Nov 2022-Jul 2024)
+
+Conferences and Schools
 ======
-* I am co-organizing [SUMEval 2024](https://sites.google.com/view/sumeval-2025).
-* Served as a mentor for the ACL Student Research Workshop 2024. Check out my mentee, Phakphum Artkaew's website [here](http://phakphumadev.github.io).
-* I joined the Organizing Committee for [WiNLP](https://www.winlp.org/organization/), where I will serve as co-chair for two years.
-* CHI, Reviewer 2024.
-* LREC, Reviewer 2024.
-* FAccT, Program Committee 2024.
-* I am a [STEM*FYI Ambassador](https://grad.berkeley.edu/graduate-diversity/current-grad-students/stemfyi/ambassadors/)!!! (2023)
-* I am an [EECS PEER](http://peers.eecs.berkeley.edu/) now! (2023)
-* Started Virtual Reading Group with Undergrads from Addis Ababa University on NLP and HCI literature, 2023.
-* FAccT Volunteer Chair, 2023
-* [MVC](https://mashaido.wixsite.com/mvahawachiche) workshop organizer, 2023
-* CHI, Reviewer 2022
-* Deep Learning Indaba, Reviewer 2022
-* HMCaT at ICML, PC member 2022
-* Berkeley NLP Seminar, Organizing Member Since 2022
-* NeurIPS ML4D, Reviewer 2021
-* Black Graduate Engineering and Science Students (BGESS), E-Board Member Since 2021
-* BAIR ReU, Committee Member Since 2021
-* JUAMI-Open Compute Facility, Communications Lead 2021-2022.
+* 7th International Conference on Information and Communication Technology for Development for Africa (ICT4DA 2025)
+* Deep Learning Indaba 2025
+* 13th Annual Conference on Recent Trends in Scientific Research, Bahir Dar University
+* Middle East and North Africa Machine Learning (MENA ML) Winter School 2025, Qatar
+* 13th Data Science Africa (DSA) Summer School and Workshop, Ibadan, Nigeria
+
+Reviewer and Service
+======
+* CHI 2026 (poster session) reviewer
+* Judge, Indaba Ideathon Project Competition 2024
+* Reviewer, African Conference on Computer Vision Summer School (ACVSS 2025)
+* Organizing Committee Member, 13th Annual Conference on Recent Trends in Scientific Research, Bahir Dar University
+
+References
+======
+* **Million Meshesha (PhD)**  
+  Associate Professor, Addis Ababa University  
+  Email: `million.meshesha@aau.edu.et`
+* **Birhanu Hailu (PhD)**  
+  Research Data Scientist, University of Alabama at Birmingham, USA  
+  Email: `bhbelay@uab.edu`
